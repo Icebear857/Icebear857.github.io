@@ -1,4 +1,4 @@
-1.introduce myse
+1.introduce myseif
 Hello github,my name is Icebear857.It is my first time to create a github username. 
 And it's also my first blog. I felt so excited becaues i did that something i just wondering but never try to do.
 No matter how bad the website that i made ,i just want to be proud of myself today. 
