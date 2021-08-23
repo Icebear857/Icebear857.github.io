@@ -10,7 +10,7 @@ Finally, find a good job ,make much money ,to be a good hacker.
 First of all, i should learn lessions at bilibili with brother Peng.
 Secound, practice more and think more about the question
 Third, write more blog to summerize myself and reveiew in the future.
-4.你打算在学习编程这件事上每周花费多少时间？
+4.how many times  you want to spend in program? 
 6 hours a day, 7 days
 5.my dream company
 huawei
